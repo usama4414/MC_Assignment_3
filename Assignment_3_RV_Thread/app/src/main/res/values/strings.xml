@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewAssignment</string>
+    <string name="bookDescrip">book image</string>
+</resources>
